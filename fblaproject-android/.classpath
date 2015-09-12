@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<classpath>
+    <classpathentry kind="src" path="src"/>
+    <classpathentry kind="src" path="gen"/>
+    <classpathentry combineaccessrules="false" exported="true" kind="src" path="/FBLAProject"/>
+    <classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+    <classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+    <classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+    <classpathentry combineaccessrules="false" exported="true" kind="src" path="/FacebookSDK"/>
+    <classpathentry kind="output" path="bin/classes"/>
+    <classpathentry exported="true" kind="lib" path="libs/gdx-backend-android.jar" sourcepath="libs/gdx-backend-android-sources.jar"/>
+    <classpathentry kind="lib" path="libs/restfb-1.6.12.jar"/>
+    <classpathentry exported="true" kind="lib" path="/FBLAProject/libs/bodyeditor-loader.jar" sourcepath="/FBLAProject/libs/bodyeditor-loader-sources.jar"/>
+    <classpathentry exported="true" kind="lib" path="/FBLAProject/libs/gdx.jar" sourcepath="/FBLAProject/libs/gdx-sources.jar"/>
+</classpath>
